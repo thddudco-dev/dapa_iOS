@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>683670930557-qu2fm5mccoe41pdm1i2gitkkfue4kdcp.apps.googleusercontent.com</string>
+	<string>683670930557-4ufu9c7rdvvtivj4a0ufu8sfslqbk8hc.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.683670930557-qu2fm5mccoe41pdm1i2gitkkfue4kdcp</string>
+	<string>com.googleusercontent.apps.683670930557-4ufu9c7rdvvtivj4a0ufu8sfslqbk8hc</string>
 	<key>API_KEY</key>
 	<string>AIzaSyA4Om10W_MeSrRHOzZEnNc4NQpcktvK0Uo</string>
 	<key>GCM_SENDER_ID</key>
@@ -13,7 +13,7 @@
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.junu.dapa</string>
+	<string>com.junu.daapa</string>
 	<key>PROJECT_ID</key>
 	<string>dapa-4fc5e</string>
 	<key>STORAGE_BUCKET</key>
@@ -29,6 +29,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:683670930557:ios:175452278075bd0c7cdd14</string>
+	<string>1:683670930557:ios:70b509bd279bba9c7cdd14</string>
+	<key>DATABASE_URL</key>
+	<string>https://dapa-4fc5e-default-rtdb.firebaseio.com</string>
 </dict>
 </plist>
